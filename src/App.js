@@ -121,7 +121,7 @@ const App = () => {
       <div className="emoji emoji-right">✌️</div>
       <div className="emoji emoji-bottom">✋</div>
 
-      <h1 className="title">Rock-Paper-Scissors Game</h1>
+      <h1 className="title">Rock-Paper-Scissors Game (Test)</h1>
       {error && <p className="error">{error}</p>}
 
       {step === "menu" && (
